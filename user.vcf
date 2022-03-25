@@ -3,12 +3,10 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Qadir;Omar;;;
 FN: Omar  Qadir 
-ORG:URW;
-TITLE:Associate Marketing\nWestfield San Francisco Centre
-EMAIL;type=INTERNET;type=WORK;type=pref:omar.qadir@urw.com
-TEL;type=WORK;type=VOICE:+14152446710
-item1.ADR;type=WORK;type=pref:;;865 Market St.\nSan Francisco\, CA;;;94103;United States of America
+EMAIL;type=INTERNET;type=WORK;type=pref:oaqadir@gmail.com
+TEL;type=WORK;type=VOICE:+19097149093
+item1.ADR;type=WORK;type=pref:;;San Francisco\, CA;;;94118;United States of America
 item1.X-ABADR:sg
-item2.URL;type=pref:westfield.com/sanfrancisco
+item2.URL;type=pref:https://www.linkedin.com/in/omar-qadir-979a6a8/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
