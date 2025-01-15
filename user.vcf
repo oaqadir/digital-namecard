@@ -3,9 +3,9 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Qadir;Omar;;;
 FN: Omar  Qadir 
-EMAIL;type=INTERNET;type=WORK;type=pref:oqadir@hudsonppi.com
+EMAIL;type=INTERNET;type=WORK;type=pref:qadir@swiftrp.com
 TEL;type=WORK;type=VOICE:+14152715072
-item1.ADR;type=WORK;type=pref:;;875 Howard St. Suite 330 San Francisco\, CA;;;94103;United States of America
+item1.ADR;type=WORK;type=pref:;;1111 Broadway Suite 1501\, CA;;;94607;United States of America
 item1.X-ABADR:sg
 item2.URL;type=pref:https://www.linkedin.com/in/omar-qadir-979a6a8/
 item2.X-ABLabel:_$!<HomePage>!$_
